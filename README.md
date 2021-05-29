@@ -1,5 +1,5 @@
 # Reinforcement-Learning-for-Skyjo-Card-Game-
-Implementation of Skyjo card game for reinforcement learning purposes
+Implementation of Skyjo card game for reinforcement learning purposes. Developped during a team project and according to Open AI GYM environment.
 
 **Status:** Maintenance (expect minor updates)
 
